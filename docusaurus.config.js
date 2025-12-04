@@ -2,7 +2,7 @@ module.exports = {
     title: 'Furion',
     tagline: '让 .NET 开发更简单，更通用，更流行。',
     url: 'http://tengbiao.github.io',
-    baseUrl: '/doc-furion/',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
