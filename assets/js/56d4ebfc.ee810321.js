@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfurion=self.webpackChunkfurion||[]).push([[8653],{8869:e=>{e.exports=JSON.parse('{"title":"1. \u9644\u5f55","slug":"/category/appendix","permalink":"/doc-furion/docs/category/appendix","navigation":{"next":{"title":"1.1 \u4ecb\u7ecd","permalink":"/doc-furion/docs/"}}}')}}]);
